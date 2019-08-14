@@ -9,6 +9,13 @@
 
 # dependencies
 /node_modules
+*.bak
+*.txt
+*.log
+*.ini
+*.conf
+*.pwhtaccess
+/wp-config.php
 
 # profiling files
 chrome-profiler-events*.json
