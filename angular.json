@@ -43,6 +43,7 @@
             ],
             "scripts": [
 	    "src/assets/js/swiper.js",
+	    "src/assets/js/smooth-scroll.js"
 	    ]
           },
           "configurations": {
