@@ -2,6 +2,15 @@
   "compileOnSave": false,
   "compilerOptions": {
     "baseUrl": "./",
+        "paths": {
+      "@angular/cdk/*": ["../cdk/*"],
+      "@angular/material/*": ["../material/*"],
+      "@angular/material": ["../material/public_api"],
+      "@angular/cdk-experimental": ["../cdk-experimental"],
+      "@angular/cdk-experimental/*": ["../cdk-experimental/*"],
+      "@angular/material-experimental": ["../material-experimental"],
+      "@angular/material-experimental/*": ["../material-experimental/*"]
+    },
     "outDir": "./dist/out-tsc",
     "sourceMap": true,
     "declaration": false,
@@ -10,7 +19,7 @@
     "module": "esnext",
     "moduleResolution": "node",
     "importHelpers": true,
-    "target": "es2016",
+    "target": "es5",
     "typeRoots": [
       "node_modules/@types"
     ],
@@ -22,5 +31,13 @@
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
     "strictInjectionParameters": true
-  }
+  },
+    "include": ["./**/*.ts"],
+        "types": [
+      "jasmine",
+      "jasminewd2",
+      "node"
+    ]
 }
+// Configuration for IDEs only.
+

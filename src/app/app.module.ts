@@ -9,9 +9,9 @@ import { NgSqUiModule } from '@sq-ui/ng-sq-ui';
 import {FlexLayoutModule} from '@angular/flex-layout';
 
 @NgModule({
+   providers: [],
    bootstrap:    [AppComponent],
    declarations: [AppComponent],
    imports:      [BrowserModule, BrowserAnimationsModule, NgSqUiModule, FlexLayoutModule, AppRoutingModule]
 })
-export class AppModule {
-}
+export class AppModule { }

@@ -28,15 +28,19 @@
               "src/assets"
             ],
             "styles": [
+		"./node_modules/@sq-ui/ng-sq-common/sq-ui-theme.scss",
 		"./node_modules/@sq-ui/ng-sq-ui/styles/form-elements.scss",
-		"src/assets/scss/argon.scss",
+		"./node_modules/@fortawesome/fontawesome-free/css/fontawesome.min.css",
+		"./node_modules/@fortawesome/fontawesome-free/css/solid.min.css",
+		"./node_modules/@fortawesome/fontawesome-free/css/regular.min.css",
 		"src/assets/css/uikit.css",
+		"src/assets/less-framework/main-16px.css",
 		"src/assets/css/index.css",
+		"src/assets/scss/argon.scss",
 		"src/assets/css/swiper.css",
 		"src/styles.scss"
             ],
             "scripts": [
-	     "src/assets/js/material-kit.js",
 	    "src/assets/js/uikit.js",
 	    "src/assets/js/swiper.js",
 	    "src/assets/js/uikit-icons.js"

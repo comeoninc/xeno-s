@@ -25,7 +25,7 @@
   "angularCompilerOptions": {
     "annotateForClosureCompiler": true,
     "strictMetadataEmit": true,
-    "flatModuleOutFile": "index.js",
+    "flatModuleOutFile": "/index.",
     "flatModuleId": "@angular/material",
     "skipTemplateCodegen": true,
     "fullTemplateTypeCheck": true
