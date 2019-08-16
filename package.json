@@ -1,6 +1,6 @@
 {
-  "name": "serpent",
-  "version": "2.0.1",
+  "name": "xeno-s",
+  "version": "3.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
