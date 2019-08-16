@@ -33,7 +33,6 @@
 		"./node_modules/@fortawesome/fontawesome-free/css/fontawesome.min.css",
 		"./node_modules/@fortawesome/fontawesome-free/css/solid.min.css",
 		"./node_modules/@fortawesome/fontawesome-free/css/regular.min.css",
-		"src/assets/css/uikit.css",
 		"src/assets/less-framework/main-16px.css",
 		"src/assets/css/index.css",
 		"src/assets/scss/argon.scss",
@@ -41,9 +40,7 @@
 		"src/styles.scss"
             ],
             "scripts": [
-	    "src/assets/js/uikit.js",
 	    "src/assets/js/swiper.js",
-	    "src/assets/js/uikit-icons.js"
 	    ]
           },
           "configurations": {
