@@ -1,4 +1,0 @@
-*.pyc
-.DS_Store
-.sass-cache/*
-fabfile.py
