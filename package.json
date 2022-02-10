@@ -68,7 +68,7 @@
     "nativescript-angular": "^8.1.0",
     "nativescript-theme-core": "^2.0.5",
     "neo-async": "^2.6.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "parse5": "^5.1.0",
     "perfect-scrollbar": "^1.4.0",
     "postcss-import": "^12.0.1",
