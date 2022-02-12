@@ -39,7 +39,7 @@
     "@types/chartist": "^0.9.46",
     "@types/fs-extra": "^8.0.0",
     "@types/typescript": "^2.0.0",
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "algoliasearch": "^3.33.0",
     "angular-instantsearch": "^3.0.0-beta.4",
     "angular2-template-loader": "^0.6.2",
